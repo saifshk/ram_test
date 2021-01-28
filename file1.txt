@@ -1,1 +1,2 @@
 This is my first file & line 1
+Now I am making changes to this file and seeing the difference
